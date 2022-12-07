@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1669815572 source:c:\users\franco\documents\recu2doparciallabo\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1669752312 c:\users\franco\documents\recu2doparciallabo\linkedlist.h
+
+1670420290 source:c:\users\franco\documents\recu2doparciallabo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"LinkedList.h"
+	"controller.h"
+
+1670420047 source:c:\users\franco\documents\recu2doparciallabo\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"controller.h"
+
+1670419868 c:\users\franco\documents\recu2doparciallabo\controller.h
+	"posts.h"
+	"LinkedList.h"
+
+1670415307 c:\users\franco\documents\recu2doparciallabo\posts.h
+
+1670414830 source:c:\users\franco\documents\recu2doparciallabo\posts.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"posts.h"
+
